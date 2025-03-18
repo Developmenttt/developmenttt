@@ -2,19 +2,15 @@
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
-
-###
-
 <h2 align="left">🛠️ Skills & Technologies</h2>
 
 ###
 
-<p align="left">- Programming: Python (Learning)</p>
+<p align="left">Programming: Python (Learning)</p>
 
 ###
 
-<h2 align="left">I coding with</h2>
+<h2 align="left">I'm coding with</h2>
 
 ###
 
@@ -23,6 +19,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
 </div>
+
+###
+
+<p align="center">📊 GitHub Stats</p>
 
 ###
 
