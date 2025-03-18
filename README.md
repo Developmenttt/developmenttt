@@ -1,4 +1,4 @@
-#👋 Hey, I'm Leon Jerliu!
+👋 Hey, I'm Leon Jerliu!
 
 🛠️ Skills & Technologies
 Programming: Python (Learning)
